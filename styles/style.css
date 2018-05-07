@@ -23,13 +23,13 @@
     background-color: #e5e5e5;
 }
 
-#section {
+.section {
     color: grey;
     font-size: 1em;
     font-weight: bold;
 }
 
-#note {
+.note {
     color: grey;
     font-size: .67em;
     font-weight: bold;
